@@ -1,0 +1,42 @@
+* {
+	margin: 0;
+}
+
+a{
+	text-decoration: none;
+}
+
+.container {
+	max-width: 500px;
+}
+.icon img {
+	width: 200px;
+	height: 200px;
+}
+
+.border-line {
+	position: relative;
+
+}
+
+.border-line-1 {
+	width: 100%;
+	position: relative;
+	border-bottom: 1px solid #aaa;
+}
+
+
+.border-line-2{
+	position: relative;
+	text-align: center;
+}
+
+.border-line-2 span {
+	background: #343a40;
+	position: absolute;
+	top:-15px;
+}
+
+.btnSign button {
+	background: #374151;
+}
